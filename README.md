@@ -1,4 +1,4 @@
-Be The Hero
+# Be The Hero
 
 💻 Sobre o Projeto:
 Aplicação desenvolvida na semana omnistack 11, para a criação e listagem de casos de ONGS, onde foram utilizadas 
